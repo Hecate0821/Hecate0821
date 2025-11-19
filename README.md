@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Chengxi Li 👋
 
-<!--
-**Hecate0821/Hecate0821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Master's student at **Carnegie Mellon University** (Graduating Dec 2025). I am seeking full-time opportunities in **LLM Infrastructure**.
 
-Here are some ideas to get you started:
+### 🔭 Current Focus: LLM Infra
+I am an open-source developer for RL and inference. Contributing to **[slime](https://github.com/THUDM/slime)**, **[sglang](https://github.com/sgl-project/sglang)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+| Languages | LLM & Cloud |
+| :--- | :--- |
+| Python, C++, Java, Golang | SGLang, Ray, RLHF, Kubernetes, Docker, Kafka |
+
+---
+📫 **Contact:** [chengxilics@gmail.com](mailto:chengxilics@gmail.com)
