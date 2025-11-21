@@ -8,7 +8,7 @@ I am an open-source developer for RL and inference. Contributing to **[slime](ht
 ### 🛠 Tech Stack
 | Languages | LLM & Cloud |
 | :--- | :--- |
-| Python, C++, Java, Golang | SGLang, Ray, RLHF, Kubernetes, Docker, Kafka |
+| Python, Java, Golang | SGLang, Ray, RLHF, Kubernetes, Docker, Kafka |
 
 ---
 📫 **Contact:** [chengxilics@gmail.com](mailto:chengxilics@gmail.com)
